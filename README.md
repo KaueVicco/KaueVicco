@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Kaue Vicco
+<a href="www.linkedin.com/in/kauevicco"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**KaueVicco/KaueVicco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Kaue and I am 19 years old. I was born and raised
+in Mogi das Cruzes, São Paulo, Brazil. I graduated from High
+School in 2021. At the end of 2022, I have been accepted at
+Valencia College. Since then, I moved to the United States to get
+further education and started to take A.A. classes focusing on
+Computer Science. My expected graduation date from Valencia
+College is in the Summer of 2025. After graduating from Valencia
+College, I am planning to transfer to a university and pursue a
+Computer Science Bachelor’s Degree.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skill                                         
+|-----------------------------------------------
+| Phyton |       
+| Data Science |
+| C# | 
+
+## Projects
+- Rock, Paper, Scissors || Phyton.
+- Choose your own adventure || Phyton.
