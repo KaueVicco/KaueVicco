@@ -22,3 +22,4 @@ Computer Science Bachelor’s Degree.
 ## Projects
 - Rock, Paper, Scissors || Phyton.
 - Choose your own adventure || Phyton.
+- Guessing Game || Phyton.
