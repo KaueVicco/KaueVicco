@@ -1,4 +1,4 @@
-# Hi there! ✌
+# Hi, there! ✌
 
 🙋‍♂ Hello, my name is Kaue and I am 19 years old. I was born and raised
 in Mogi das Cruzes, São Paulo, Brazil. I graduated from High
