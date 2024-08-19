@@ -1,6 +1,6 @@
 # Hi, there! ✌
 
-🙋‍♂ Hello, my name is Kaue and I am 19 years old. I was born and raised
+🙋‍♂ Hello, my name is Kaue and I am 20 years old. I was born and raised
 in Mogi das Cruzes, São Paulo, Brazil. I graduated from High
 School in 2021. At the end of 2022, I have been accepted at
 Valencia College. Since then, I moved to the United States to get
