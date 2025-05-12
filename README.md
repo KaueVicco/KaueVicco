@@ -1,56 +1,40 @@
-# Hi, there! ✌
+# Hi, there! ✌️
 
-🙋‍♂ Hello, my name is Kaue and I am 20 years old. I was born and raised
-in Mogi das Cruzes, São Paulo, Brazil. I graduated from High
-School in 2021. At the end of 2022, I have been accepted at
-Valencia College. Since then, I moved to the United States to get
-further education and started to take A.A. classes focusing on
-Computer Science. My expected graduation date from Valencia
-College is in the Summer of 2025. After graduating from Valencia
-College, I am planning to transfer to a university and pursue a
-Computer Science Bachelor’s Degree.
+👋 Hey! I'm Kaue — a 20-year-old aspiring software developer passionate about technology, problem-solving, and continuous learning.
 
+🌍 I was born and raised in Mogi das Cruzes, São Paulo, Brazil. In 2022, I moved to the United States to pursue higher education and broaden my horizons. I recently completed my Associate in Arts (A.A.) degree in Computer Science at Valencia College, Florida. After graduation in May 2025, I returned to São Paulo to continue my academic and professional journey.
 
-<div>
+🎯 I'm currently preparing for my Bachelor's in Computer Science and building hands-on experience with real-world projects. My focus areas include back-end development, APIs, and cloud services.
 
-## 🌱 Experiences and studies
+---
 
-• 📚 Studying A.A. Computer Science at Valencia College.
-<br>
+## 🌱 Experiences and Studies
 
-</div>
+- 🎓 Graduated with an A.A. in Computer Science from Valencia College, USA.
+- 📍 Currently based in São Paulo, Brazil, preparing for a Bachelor’s Degree in Computer Science.
+
+---
 
 ## 🌐 Socials
 
-<div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KaueVicco-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kauevicco)
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauevicco/)
+📬 Reach me at: [kauevicco12@gmail.com](mailto:kauevicco12@gmail.com)
 
-• 📫 Contact me! : kauevicco12@gmail.com
+---
 
+## 💻 Technologies I'm Studying
 
-</div>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
 
-## 💻 Technologies I'm studying 
+## 🚀 Goals
 
-<div style="display: inline_block">
-<br>
-    <img align="center" alt="c" src= "https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=&logoColor=white"> 
-    <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-
-
-</div>
-
-<br>
-<br>
-
-<div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaueVicco&layout=compact)
-
-
-</div>
+- 📚 Earn a Bachelor's degree in Computer Science
+- 🧠 Deepen my knowledge in Java, Spring Boot, and system design
+- 🌐 Land a junior back-end developer role in Brazil
+- 📁 Build a strong portfolio with impactful projects
