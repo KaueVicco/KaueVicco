@@ -1,6 +1,6 @@
 # Hi, there! ✌️
 
-👋 Hey! I'm Kaue — a 20-year-old aspiring software developer passionate about technology, problem-solving, and continuous learning.
+👋 Hey! I'm Kaue — a 21-year-old aspiring software developer passionate about technology, problem-solving, and continuous learning.
 
 🌍 I was born and raised in Mogi das Cruzes, São Paulo, Brazil. In 2022, I moved to the United States to pursue higher education and broaden my horizons. I recently completed my Associate in Arts (A.A.) degree in Computer Science at Valencia College, Florida. After graduation in May 2025, I returned to São Paulo to continue my academic and professional journey.
 
